@@ -1,0 +1,152 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.main-page4 {
+    display: flex;
+    flex-direction: column;
+    height: 753px;
+    width: 1536px;
+    background-color: #231f20;
+    overflow-y: hidden;
+}
+
+.page4-balk-boven {
+    height: 100px;
+}
+
+.page4-balk-onder {
+    height: 100px;
+}
+
+.page4-midden-container {
+    display: flex;
+    flex-direction: column;
+    margin-left: 153.5px;
+    height: 100%;
+    width: 90%;
+    background-color: #231f20;
+}
+
+.page4-midden-top-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    margin-top: 30px;
+    margin-left: 65px;
+    height: 150px;
+    width: 1000px;
+    background-color: #0000;
+}
+
+.page4-image1 {
+    background-color: blue;
+    height: 100%;
+    width: 300px;
+}
+
+.page4-image2 {
+    background-color: blue;
+    height: 100%;
+    width: 300px;
+}
+
+.page4-image3 {
+    background-color: blue;
+    height: 100%;
+    width: 300px;
+}
+
+.page4-midden-onder-container {
+    display: flex;
+    flex-direction: row;
+    height: 370px;
+    width: 1100px;
+    background-color: #0000;
+}
+
+.page4-midden-onder-container-links {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-left: 80px;
+    height: 100%;
+    width: 300px;
+    background-color: #0000;
+}
+
+.page4-aftermovie-container {
+    border-radius: 30px;
+    margin-top: 20px;
+    margin-left: 40px;
+    height: 370px;
+    width: 650px;
+    background-color: white;
+}
+
+.aftermovie{
+    width: 640px;
+    border-radius: 30px;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+
+.page4-image1-links{
+    background-color: purple;
+    margin-top: 20px;
+    width: 300px;
+    height: 200px;
+}
+.page4-image2-links{
+    background-color: lime;
+    margin-top: 20px;
+    width: 300px;
+    height: 200px;
+}
+.image1{
+    width: 300px;
+}
+.image2{
+    width: 300px;
+}
+.image3{
+    width: 300px;
+}
+.image1-links{
+    width: 300px;
+}
+.image2-links{
+    width: 300px;
+}
+.button-text{
+    margin-top: 15px;
+    background-color: #0000;
+    color: #FFFF;
+    font-family: sans-serif;
+    font-weight: 1700;
+    letter-spacing: 2px;
+}
+.button-next-page3{
+    position: absolute;
+    margin-left: 0px;
+    margin-top: 650px;
+    text-align: center;
+    background-color: rgb(113, 113, 113);
+    width: 200px;
+    height: 50px;
+    border-radius: 30px;
+    margin-bottom: 10px;
+}
+.button-next-page3-text{
+    text-decoration: none;
+    color: black;
+    font-size: 30px;
+    margin-top: 5px;
+    font-family: sans-serif;
+    font-weight: 1000;
+    letter-spacing: 3px;
+}

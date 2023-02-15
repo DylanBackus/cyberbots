@@ -1,0 +1,86 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.container-page2 {
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.page2-logo {
+    width: 12%;
+    margin-right: 24px;
+}
+
+.test {
+    width: 50%;
+}
+
+.cyberbotz {
+    font-size: 70px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    color: white;
+    margin-left: 24px;
+
+}
+
+.container2-page2 {
+    width: 75vw;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.page2-body {
+    background-color: #3da1d9;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.left-page2-text {
+    color: #FFF;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    width: 15vw;
+    font-weight: 600;
+    height: 98%;
+    background-color: #2c2e35;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: solid 5px #ffff;
+}
+
+.group-pic {
+    width: 50%;
+
+}
+
+.container-page2-big {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.button-page2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    background-color: #2c2e35;
+    width: 10%;
+    height: 10vh;
+    margin-top: auto;
+    text-decoration: none;
+    color: #FFF;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 35px;
+    border: solid 3px #fff;
+}

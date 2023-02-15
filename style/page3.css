@@ -1,0 +1,75 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.main-page3{
+    display: flex;
+    flex-direction: row;
+    height: 753px;
+    width: 1536px;
+    background-color: #0000;
+    overflow-y: hidden;
+}
+
+.main-page3-links{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background-color: #FFFF;
+    width: 35%;
+    height: 100%;
+}
+.main-page3-rechts{
+    display: flex;
+    flex-direction: column;
+    background-color: #4c4d49;
+    width: 1000px;
+    height: 753px;
+}
+.robot-met-background{
+    margin-left: 100px;
+}
+.robot-met-background{
+    width: 775px;
+}
+.lego-bricks{
+    width: 80%;
+    width: 500px;
+}
+.page3-buttons{
+    align-items: center;
+    text-align: center;
+    border-radius: 30px;
+    margin-left: 20px;
+    background-color: black;
+    height: 70px;
+    width: 90%;
+}
+.button-text{
+    margin-top: 15px;
+    background-color: #0000;
+    color: #FFFF;
+    font-family: sans-serif;
+    font-weight: 1700;
+    letter-spacing: 2px;
+}
+.button-next-page3{
+    margin-left: 790px;
+    text-align: center;
+    background-color: rgb(113, 113, 113);
+    width: 200px;
+    height: 200px;
+    border-radius: 30px;
+    margin-bottom: 10px;
+}
+.button-next-page3-text{
+    text-decoration: none;
+    color: black;
+    font-size: 30px;
+    margin-top: 5px;
+    font-family: sans-serif;
+    font-weight: 1000;
+    letter-spacing: 3px;
+}
